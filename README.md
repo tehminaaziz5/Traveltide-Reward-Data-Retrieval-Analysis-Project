@@ -95,7 +95,7 @@ sessions_enriched.csv – Enriched session-level dataset (exported)
 
 This project demonstrates how raw behavioral data can be transformed into actionable customer insights. The resulting user-level profiles and behavioral patterns provide a strong analytical foundation for customer segmentation, personalized marketing, and loyalty program design.
 
-📌 Author
+# Author
 
 Tehmina Aziz
 Data Analytics & Customer Behavior Analysis Project
