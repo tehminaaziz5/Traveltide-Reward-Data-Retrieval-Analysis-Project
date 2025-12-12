@@ -1,13 +1,13 @@
 # Traveltide-Reward-Data-Retrieval-Analysis-Project
 Master School Mastery Project
 
-📌 Project Overview
+# Project Overview
 
 This project analyzes customer behavior on the TravelTide digital travel booking platform with the goal of supporting data-driven, personalized rewards and retention strategies. Using enriched session data and user-level aggregation, the analysis uncovers how engagement, booking behavior, discounts, trip characteristics, and spend patterns influence customer decisions.
 
 The project follows a structured analytics workflow, progressing from session-level exploration to user-level profiling, and laying the foundation for customer segmentation and targeted marketing insights.
 
-🎯 Objectives
+# Objectives
 
 Understand customer engagement patterns at the session level
 
@@ -19,11 +19,11 @@ Aggregate session data into meaningful user-level profiles
 
 Generate actionable insights for marketing personalization and loyalty programs
 
-🗂 Project Structure
+# Project Structure
 
 The analysis is organized into three main parts:
 
-Part 1: Session-Level Exploration
+# Part 1: Session-Level Exploration
 
 Data cleaning and preprocessing
 
@@ -33,7 +33,7 @@ Exploratory Data Analysis (EDA) of sessions
 
 Export of an enriched session-level dataset
 
-Part 2: User-Level Aggregation
+# Part 2: User-Level Aggregation
 
 Aggregation of session data into user profiles
 
@@ -41,13 +41,13 @@ Analysis of engagement intensity, booking rates, discount sensitivity, and custo
 
 User-level exploratory visualizations
 
-Part 3: Insights & Segmentation (Foundation)
+# Part 3: Insights & Segmentation (Foundation)
 
 Behavioral patterns supporting segmentation
 
 Insights for personalized rewards and retention strategies
 
-🔧 Key Features Engineered
+# Key Features Engineered
 
 Session duration and clicks per minute
 
@@ -61,7 +61,7 @@ Base trip cost and total trip cost
 
 User age and account age
 
-📊 Key Insights
+# Key Insights
 
 Higher engagement (longer sessions and more clicks) is strongly associated with bookings
 
@@ -73,7 +73,7 @@ A small group of users contributes disproportionately to overall value
 
 Trip distance, duration, and spend meaningfully differentiate customer behavior
 
-🧠 Tools & Technologies
+# Tools & Technologies
 
 Python (Pandas, NumPy)
 
@@ -83,7 +83,7 @@ Environment: Google Colab
 
 Data: TravelTide sessions, flights, hotels, and users datasets
 
-📁 Files Included
+# Files Included
 
 TravelTide_Reward_Data_Retrieval_Analysis_Project.ipynb – Main project notebook
 
@@ -91,7 +91,7 @@ traveltide_01_sessions_eda.ipynb – Session-level exploration and feature enric
 
 sessions_enriched.csv – Enriched session-level dataset (exported)
 
-🚀 Outcomes
+# Outcomes
 
 This project demonstrates how raw behavioral data can be transformed into actionable customer insights. The resulting user-level profiles and behavioral patterns provide a strong analytical foundation for customer segmentation, personalized marketing, and loyalty program design.
 
